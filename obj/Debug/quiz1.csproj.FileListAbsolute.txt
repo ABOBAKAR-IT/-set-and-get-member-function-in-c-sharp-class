@@ -1,0 +1,10 @@
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\bin\Debug\quiz1.exe.config
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\bin\Debug\quiz1.exe
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\bin\Debug\quiz1.pdb
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\obj\Debug\quiz1.csprojAssemblyReference.cache
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\obj\Debug\quiz1.Form1.resources
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\obj\Debug\quiz1.Properties.Resources.resources
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\obj\Debug\quiz1.csproj.GenerateResource.cache
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\obj\Debug\quiz1.csproj.CoreCompileInputs.cache
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\obj\Debug\quiz1.exe
+C:\Users\RANA ABOBAKAR\source\repos\quiz1\quiz1\obj\Debug\quiz1.pdb
